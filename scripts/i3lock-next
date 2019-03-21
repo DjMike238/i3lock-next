@@ -12,7 +12,7 @@ from subprocess import run, PIPE
 from configparser import ConfigParser
 
 # PREFIX and LIBDIR are set during installation of i3lock-next
-PREFIX = "/usr/local"
+PREFIX = "/usr"
 LIBDIR = "/lib"
 
 # display help text then exit (on -h or --help flags as arg 1
